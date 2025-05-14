@@ -1,2 +1,2 @@
-# library-email-service
-Email microservice to handle mails 
+# email-service
+Microservice to handle emails
